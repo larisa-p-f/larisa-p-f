@@ -21,4 +21,7 @@ I’m a Physics graduate with an MSc in Data, now exploring opportunities where 
 ## 📊 GitHub Stats
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=larisa-p-f&theme=dracula)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=larisa-p-f&theme=dracula)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larisa-p-f&layout=compact&theme=dracula)
+
 
