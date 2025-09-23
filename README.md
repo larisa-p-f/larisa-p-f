@@ -1,6 +1,6 @@
 # Hi, I'm Larisa 👋
 
-I’m a Physics graduate with an MSc in Data, now exploring opportunities where I can apply my skills in **machine learning, data analysis, and visualisation** to solve real-world problems.
+I’m a Physics graduate with an MSc in Data, now exploring opportunities where I can apply my skills in **machine learning, data analysis, and visualisation** to solve real-world problems. Fun fact: I’m a huge NBA fan and I root for the Brooklyn Nets!
 
 ---
 
