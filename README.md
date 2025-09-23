@@ -20,5 +20,5 @@ I’m a Physics graduate with an MSc in Data, now exploring opportunities where 
 
 ## 📊 GitHub Stats
 
-![Larisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=larisa-p-f&show_icons=true&theme=dracula)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=larisa-p-f&theme=dracula)
 
