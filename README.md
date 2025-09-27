@@ -6,8 +6,6 @@ I’m a Physics graduate with an MSc in Data, now exploring opportunities where 
 
 ## Tech Stack
 
-## Tech Stack
-
 ### Programming & Data Libraries
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
